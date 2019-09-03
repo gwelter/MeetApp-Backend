@@ -1,0 +1,2 @@
+# meetapp-backend
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3013c9257aef484d917568740dec1a7e)](https://app.codacy.com/app/gwelter/meetapp-backend?utm_source=github.com&utm_medium=referral&utm_content=gwelter/meetapp-backend&utm_campaign=Badge_Grade_Dashboard)
